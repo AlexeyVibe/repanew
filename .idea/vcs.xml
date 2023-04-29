@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/countries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-kino" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/users" vcs="Git" />
+  </component>
+</project>
